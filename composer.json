@@ -1,0 +1,11 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "autoload classes",
+    "authors":[
+        {
+            "name":"陳柏勳",
+            "email":"3B032013@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
